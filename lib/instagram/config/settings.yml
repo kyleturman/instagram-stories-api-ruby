@@ -1,0 +1,6 @@
+version:         "9.1.5"
+api_url:         "https://i.instagram.com/api/v1/"
+ig_sig_key:      "af0431ace409e957498c6050e2299baa829014a781905eef3fc94139151e5d38"
+sig_key_version: "4"
+android_version: "18"
+android_release: "4.3"
